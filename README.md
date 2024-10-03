@@ -1,5 +1,7 @@
 # Lane Keck
 
+Student specialized in computer science
+
 <!--
 **lanekooky/lanekooky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
