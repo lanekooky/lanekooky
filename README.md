@@ -19,4 +19,5 @@ which was apart of a directive study colloborating with Dr. Tian. It takes a pre
 or AI, although I have been very interested in airplane mechanics.
 
 ### Cool Stats and Such!
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lanekooky)](https://github.com/anuraghazra/github-readme-stats) / / / / ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lanekooky&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lanekooky)](https://github.com/anuraghazra/github-readme-stats) <br>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lanekooky&show_icons=true&theme=radical)
