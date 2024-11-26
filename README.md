@@ -20,3 +20,4 @@ or AI, although I have been very interested in airplane mechanics.
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lanekooky)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lanekooky&show_icons=true&theme=radical)
