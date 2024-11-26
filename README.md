@@ -18,5 +18,5 @@ here at EWU and strive to do better every single day. My favorite project is my 
 which was apart of a directive study colloborating with Dr. Tian. It takes a prefix trie and user input to predict what a user is trying to type. I hope to get a job working on video game projects 
 or AI, although I have been very interested in airplane mechanics.
 
-### Most Used Languages
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lanekooky)](https://github.com/anuraghazra/github-readme-stats)
