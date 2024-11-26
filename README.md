@@ -1,14 +1,15 @@
 > Computers are **cool**. 
-# Lane Keck
+# Hi My Name is Lane Keck! 👋
+Welcome to my Github Profile! Enjoy Your Stay! 😃
 ## Links
 - [Github Profile](https://github.com/lanekooky)
 - [LinkedIn](https://www.linkedin.com/in/lane-keck-8174a0269/)
 ## Skills
-- Data structures
-- Algorithms
-- Version Control
-- Java
-- Python
+- Data structures 🏠
+- Algorithms ➰
+- Version Control 🏗️
+- Java ☕
+- Python 🐍
 
 ### About me
 Currently a student studying computer science at EWU. I have lived in Spokane my whole
