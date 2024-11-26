@@ -1,5 +1,5 @@
 > Computers are **cool**. 
-# Hi My Name is Lane Keck! 👋
+# Hi, my name is Lane Keck! 👋
 Welcome to my Github Profile! Enjoy Your Stay! 😃
 ## Links
 - [Github Profile](https://github.com/lanekooky)
